@@ -3,6 +3,9 @@ Project log assignments.
 
 # Module Two Team Project Plan
 
+## Team Members:
+- Ethan McGlone
+
 ## Scenario Choice
 
 ## Brainstorming Ideas
