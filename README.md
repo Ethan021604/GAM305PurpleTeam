@@ -6,6 +6,7 @@ Project log assignments.
 ## Team Members:
 - Ethan McGlone
 - Zion Johnson
+- Ian Barniskis
 
 ## Scenario Choice
 
