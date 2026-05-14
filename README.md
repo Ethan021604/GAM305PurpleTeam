@@ -7,6 +7,7 @@ Project log assignments.
 - Ethan McGlone
 - Zion Johnson
 - Ian Barniskis
+- Will VanHuss
 
 ## Scenario Choice
 
