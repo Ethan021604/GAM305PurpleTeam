@@ -4,10 +4,10 @@ Project log assignments.
 # Module Two Team Project Plan
 
 ## Team Members:
-- Ethan McGlone
-- Zion Johnson
+- Ethan McGlone: Artist
+- Zion Johnson: Programmer
 - Ian Barniskis: Team Lead | UX/UI
-- Will VanHuss : Level Designer
+- Will VanHuss: Level Designer
 
 ## Scenario Choice
 - Scenario 3: Top Down
