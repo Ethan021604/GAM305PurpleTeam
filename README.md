@@ -57,3 +57,4 @@ effect)
 
 ## Task Assignment Method
 - Will will design the level and place assets inside in a strategic way
+- Per week, tasks are discussed at weekly meetings and in Discord chats following the development timeline
