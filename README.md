@@ -7,7 +7,7 @@ Project log assignments.
 - Ethan McGlone
 - Zion Johnson
 - Ian Barniskis: Team Lead | UX/UI
-- Will VanHuss
+- Will VanHuss : Level Designer
 
 ## Scenario Choice
 - Scenario 3: Top Down
