@@ -39,11 +39,19 @@ effect)
     - Base layout
 - Enemy assets
 - Rough UI cut out
+- Game Starts
 
 ## Beta Goals
+- Start -> Finish
+- Game Over Screen
+- Main Menu HUD
+- HUD
 
 ## Communication Methods
+- Discord Text / Voice when needed
 
 ## Meeting Frequency
+- Once a week at least (Wed - 10 minute Scrum)
 
 ## Task Assignment Method
+- Discussed during meetings
