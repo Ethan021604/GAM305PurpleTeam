@@ -56,4 +56,4 @@ effect)
 - Once a week at least (Wed - 10 minute Scrum)
 
 ## Task Assignment Method
-- Discussed during meetings
+- Will will design the level and place assets inside in a strategic way
