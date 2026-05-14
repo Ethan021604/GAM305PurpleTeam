@@ -30,6 +30,7 @@ effect)
 - Spike pits, fire pits, trip wires w/ spikes or activates crossbows!
 - Maybe traps can be turned off buy finding the two buttons in the room
 - Maybe surprise boss? Shoots arrows out of its ass?
+- SKeleton Enemies?
 
 ## Development Timeline
 - Class Due Dates, do not deviate!
@@ -46,6 +47,7 @@ effect)
 - Game Over Screen
 - Main Menu HUD
 - HUD
+- 
 
 ## Communication Methods
 - Discord Text / Voice when needed
