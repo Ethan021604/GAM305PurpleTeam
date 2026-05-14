@@ -19,11 +19,26 @@ around the level)
 effect)
 
 ## Brainstorming Ideas
-- 
+- Crossbow for 1 stationary enemy
+- Goblins/creatures/little guys for 1 moving enemy (possibly ranged?)
+- Portal for ending (kill enough enemies to open portal? Feed their blood to the blood portal, blood for the blood god!)
+- Diablo-esque theme, medieval low-poly
+- Starting location, dark opressive feeling? Dungeon, dead forest?
+- Possible separate shop location, spend gold from enemies to buy new weapons/armor/powerups
+- Floating keys for opening doors, or maybe kill ads in room to open portal to move to next room?
+- Dungeon Crawler, dude!
+- Spike pits, fire pits, trip wires w/ spikes or activates crossbows!
+- Maybe traps can be turned off buy finding the two buttons in the room
+- Maybe surprise boss? Shoots arrows out of its ass?
 
 ## Development Timeline
-
+- Class Due Dates, do not deviate!
+  
 ## Alpha Goals
+- Skeleton of rooms
+    - Base layout
+- Enemy assets
+- Rough UI cut out
 
 ## Beta Goals
 
