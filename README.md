@@ -47,7 +47,7 @@ effect)
 - Game Over Screen
 - Main Menu HUD
 - HUD
-- 
+
 
 ## Communication Methods
 - Discord Text / Voice when needed
