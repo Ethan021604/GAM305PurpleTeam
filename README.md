@@ -8,6 +8,7 @@ Project log assignments.
 - Zion Johnson: Programmer
 - Ian Barniskis: Team Lead | UX/UI
 - Will VanHuss: Level Designer
+- Jose Lucca: UI/UX Support | Project Coordination
 
 ## Scenario Choice
 - Scenario 3: Top Down
@@ -50,11 +51,12 @@ effect)
 
 
 ## Communication Methods
-- Discord Text / Voice when needed
+- Discord will be used for team communication through text and voice channels. GitHub will be used for repository management, version control, and progress tracking.
 
 ## Meeting Frequency
 - Once a week at least (Wed - 10 minute Scrum)
 
 ## Task Assignment Method
 - Will will design the level and place assets inside in a strategic way
+- Jose will assist with UI/UX support, project coordination, and general task organization when needed
 - Per week, tasks are discussed at weekly meetings and in Discord chats following the development timeline
