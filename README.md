@@ -104,8 +104,6 @@ Tasks will be discussed during weekly meetings and in Discord. Work will follow 
 
 Discord will be used for quick QA communication, screenshots, videos, and questions about expected behavior. GitHub will be used to manage the project files, track bugs, assign fixes, and confirm which build is ready for testing.
 
-Ian will help guide the QA process and make sure bugs are documented clearly.
-
 ---
 
 ## Testing Schedule
