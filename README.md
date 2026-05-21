@@ -282,3 +282,23 @@ The team will prioritize bugs that:
 - Cause crashes
 - Prevent the game from being completed
 - Prevent the project from meeting the Scenario 3 requirements
+
+- Prevent the project from meeting the Scenario 3 requirements
+
+---
+
+## UI/UX Playtesting Notes
+
+During testing sessions, the team will also collect feedback related to player experience and interface usability.
+
+UI/UX testing focus:
+
+- HUD visibility during combat
+- Menu navigation clarity
+- Readability of text and UI elements
+- Player understanding of objectives
+- Visual feedback when taking damage or collecting items
+- Screen layout on different monitor sizes
+- Overall gameplay feel and accessibility
+
+The goal is to make sure the game is easy to understand and comfortable to play for new players.
