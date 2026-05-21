@@ -170,7 +170,7 @@ Goal: Make sure the final build is ready for submission and matches the project 
 
 | Test Item | Expected Result | Pass/Fail |
 |---|---|---|
-| Game launches | Game opens without crashing |  |
+| Game launches | Game opens without crashing | x |
 | Main menu works | Player can start the game |  |
 | Player movement works | Player moves correctly in all intended directions |  |
 | Camera works | Player remains visible during gameplay |  |
