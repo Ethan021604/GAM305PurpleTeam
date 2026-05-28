@@ -323,9 +323,10 @@ _In terms of the QA and testing process, what would you do differently to improv
 We'd want to push for more communication and maybe a few more meetings/side-by-side codings to ensure we're all on the same page.
 
 _What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?_
-
+We utilized Blueprints primarily, along with modeling tools (Blender, etc.), along with also finding some assest online to fill in the gaps. These were the fastest and also the ones we had the most experience with, so we didn't want to spend the time learning things outside our wheelhouses.
 
 _Were there any tools or techniques that you did not find helpful in the success of your project development? Why?_
-
+We didn't really experiement outside our known areas of expertise. We wanted to keep things within what we knew, and then fit it in with our teams needs.
 
 _How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?_
+We basically laid out what we were good at, which guided our role choices, which then allowed us to target what we were already good at and continue to be good at.
