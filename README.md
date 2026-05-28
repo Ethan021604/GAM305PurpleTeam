@@ -308,3 +308,7 @@ The goal is to make sure the game is easy to understand and comfortable to play 
 During testing, the team focused on making the game easy to understand for new players. UI and gameplay feedback helped identify areas where the HUD, level flow, and player guidance could be improved.
 
 Communication through Discord also helped the team quickly share screenshots, gameplay clips, and feedback during testing sessions. This made it easier to identify confusing areas of the level and improve the overall player experience.
+
+---
+
+# Module Four Project Log - Team Reflection
