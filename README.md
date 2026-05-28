@@ -308,3 +308,25 @@ The goal is to make sure the game is easy to understand and comfortable to play 
 During testing, the team focused on making the game easy to understand for new players. UI and gameplay feedback helped identify areas where the HUD, level flow, and player guidance could be improved.
 
 Communication through Discord also helped the team quickly share screenshots, gameplay clips, and feedback during testing sessions. This made it easier to identify confusing areas of the level and improve the overall player experience.
+
+---
+
+# Module Four Project Log - Team Reflection
+
+_What parts of the testing process did the team perceive to go well?_
+The quick nature of being able to adjust our blueprints on the fly due to Discord communication
+
+_How were bugs identified and corrected?_
+Discord was the primary nature of where we discussed issues, along with our own testing whenever we worked on the game.
+
+_In terms of the QA and testing process, what would you do differently to improve the process?_
+We'd want to push for more communication and maybe a few more meetings/side-by-side codings to ensure we're all on the same page.
+
+_What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?_
+We utilized Blueprints primarily, along with modeling tools (Blender, etc.), along with also finding some assest online to fill in the gaps. These were the fastest and also the ones we had the most experience with, so we didn't want to spend the time learning things outside our wheelhouses.
+
+_Were there any tools or techniques that you did not find helpful in the success of your project development? Why?_
+We didn't really experiement outside our known areas of expertise. We wanted to keep things within what we knew, and then fit it in with our teams needs.
+
+_How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?_
+We basically laid out what we were good at, which guided our role choices, which then allowed us to target what we were already good at and continue to be good at.
