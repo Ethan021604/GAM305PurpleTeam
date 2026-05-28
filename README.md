@@ -312,3 +312,20 @@ Communication through Discord also helped the team quickly share screenshots, ga
 ---
 
 # Module Four Project Log - Team Reflection
+
+_What parts of the testing process did the team perceive to go well?_
+The quick nature of being able to adjust our blueprints on the fly due to Discord communication
+
+_How were bugs identified and corrected?_
+Discord was the primary nature of where we discussed issues, along with our own testing whenever we worked on the game.
+
+_In terms of the QA and testing process, what would you do differently to improve the process?_
+We'd want to push for more communication and maybe a few more meetings/side-by-side codings to ensure we're all on the same page.
+
+_What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?_
+
+
+_Were there any tools or techniques that you did not find helpful in the success of your project development? Why?_
+
+
+_How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?_
