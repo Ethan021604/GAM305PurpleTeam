@@ -330,3 +330,7 @@ We didn't really experiement outside our known areas of expertise. We wanted to 
 
 _How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?_
 We basically laid out what we were good at, which guided our role choices, which then allowed us to target what we were already good at and continue to be good at.
+
+### Comment - Jose Lucca
+
+I think the team made strong progress during the Beta stage. Compared to earlier milestones, the project now feels much more complete with the addition of combat improvements, HUD updates, and more environmental assets. Team communication through Discord helped everyone stay informed and quickly address issues as they came up. Moving forward, continued testing, optimization, and polishing should help ensure the project is ready for the final release.
