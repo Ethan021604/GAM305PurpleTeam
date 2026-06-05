@@ -170,12 +170,12 @@ Goal: Make sure the final build is ready for submission and matches the project 
 
 | Test Item | Expected Result | Pass/Fail |
 |---|---|---|
-| Game launches | Game opens without crashing |  |
-| Main menu works | Player can start the game |  |
-| Player movement works | Player moves correctly in all intended directions |  |
-| Camera works | Player remains visible during gameplay |  |
+| Game launches | Game opens without crashing | Pass |
+| Main menu works | Player can start the game | Pass |
+| Player movement works | Player moves correctly in all intended directions | Pass |
+| Camera works | Player remains visible during gameplay | Pass |
 | Player collision works | Player cannot walk through walls or blocked objects |  |
-| Level layout is playable | Player can navigate from start to finish |  |
+| Level layout is playable | Player can navigate from start to finish | Pass |
 | Weapons work | Player can collect and use at least 3 weapons |  |
 | Armor works | Player can collect at least 3 armor pickups |  |
 | Pickups work | Ammo or other pickups update the player correctly |  |
@@ -185,10 +185,10 @@ Goal: Make sure the final build is ready for submission and matches the project 
 | Stationary enemy type 2 works | Enemy stays in place and functions correctly |  |
 | Obstacles are present | At least 4 unique obstacle types are in the level |  |
 | Obstacles function correctly | Obstacles block, damage, or affect the player |  |
-| Player takes damage | Health decreases when hit |  |
+| Player takes damage | Health decreases when hit | Pass |
 | Player death works | Game Over screen appears |  |
 | Enemies can be defeated | Player attacks damage or destroy enemies |  |
-| HUD works | Health, armor, ammo, or other needed UI displays correctly |  |
+| HUD works | Health, armor, ammo, or other needed UI displays correctly | Pass |
 | Win condition works | Player can complete the level |  |
 | Final build is stable | No major crash or blocker prevents completion |  |
 
