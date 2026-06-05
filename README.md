@@ -334,3 +334,32 @@ We basically laid out what we were good at, which guided our role choices, which
 ### Comment - Jose Lucca
 
 I think the team made strong progress during the Beta stage. Compared to earlier milestones, the project now feels much more complete with the addition of combat improvements, HUD updates, and more environmental assets. Team communication through Discord helped everyone stay informed and quickly address issues as they came up. Moving forward, continued testing, optimization, and polishing should help ensure the project is ready for the final release.
+
+# Module Five Project Log - Team Reflection
+**Evaluate your plan that your team created in Module Three from a technical/programming standpoint.**
+From a technical and programming standpoint, our plan established in Module Three provided a solid foundation, but required flexibility in execution. We relied heavily on Unreal Engine Blueprints for logic and GitHub for version control. While our initial plan laid out strict pass/fail QA checklists, the technical reality of development meant that live, on-the-fly Blueprint adjustments and rapid iteration on level blockouts became our most practical method for resolving issues. Handling collision settings and asset integration required more dynamic problem-solving than a rigid testing script could anticipate.
+
+---
+
+**What parts of the plan did the team perceive to go well in relation to the last stage evaluation?**
+The team perceived our communication and rapid iteration to be our strongest assets. The quick nature of being able to adjust our Blueprints and update level designs on the fly was highly effective. Because Discord was our primary hub for sharing screenshots and testing behavior, we were able to quickly validate expected mechanics and adjust room layouts without bottlenecking development.
+
+---
+
+**What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?**
+While our rapid communication was a strength, our asynchronous work occasionally led to alignment issues. Relying primarily on individual testing whenever someone worked on the game meant we sometimes lacked a unified perspective on the current build state. Managing GitHub version control and ensuring that new corridor designs or technical tweaks synced smoothly required careful attention to avoid overlapping work.
+
+---
+
+**How were the previous evaluations integrated into this latest stage?**
+In our previous evaluation, we identified a need for better synchronization. Moving into this latest stage, we pushed for closer communication in Discord and prioritized getting on the same page before pushing major updates to the team repository. We utilized our initial game design document analysis to keep everyone strictly within the roles they excel at, ensuring technical tasks were handled efficiently.
+
+---
+
+**What would you do differently to improve the collaboration or development process?**
+To improve collaboration and the development process moving forward, we would push for even more synchronized work sessions. Implementing dedicated side-by-side coding and integration meetings would help us catch collision bugs or Blueprint logic errors together in real-time, rather than relying solely on individual testing and post-testing Discord updates. We also want to further refine our use of Git Bash commands and branch management to ensure smooth merges.
+
+---
+
+**Were there any tools or techniques that you did not find helpful in the success of your project development? Why?**
+We did not experiment outside our known areas of expertise, meaning we actively avoided introducing unfamiliar tools or complex plugins. Because we wanted to keep things within
