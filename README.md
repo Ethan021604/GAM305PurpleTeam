@@ -361,3 +361,29 @@ For the final release, our schedule is strictly focused on polish and QA:
 - Double-checking that we have exactly 3 weapons, 3 armor pickups, and ammo placed correctly.
 - Making sure our 4 obstacle types and 4 enemy types (2 moving, 2 stationary) interact with the player correctly.
 - Doing final start-to-finish playtests to squash any remaining bugs before locking in the final GitHub build.
+
+  # Module Six Project Log - Team Reflection
+
+_Evaluate your plan that your team created in Module Three from an artist's standpoint._
+
+From an artist's standpoint, the Module Three plan gave us a solid foundation for developing the visual aspects of the game. The testing plan helped us identify areas where the environment, lighting, asset placement, and overall presentation needed improvement. Throughout development, we continued refining the level and visual design while ensuring the game met all Scenario 3 requirements.
+
+_What parts of the plan did the team perceive to go well in relation to the last stage evaluation?_
+
+Communication through Discord continued to work well and allowed us to quickly share screenshots, gameplay clips, and feedback. This helped us make visual adjustments faster and improve the overall look of the level. The team was able to continue building on the work completed during Beta and polish the environment for the final release.
+
+_What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?_
+
+One challenge was balancing visual quality with performance. As more assets and lighting were added, the strain on the system increased. We spent a significant amount of time tweaking lighting settings to achieve the atmosphere we wanted while maintaining acceptable performance. Because team members often worked on different schedules, some visual adjustments also required additional revisions after receiving feedback from the rest of the team.
+
+_How were the previous evaluations integrated into this latest stage?_
+
+Based on previous evaluations, we continued emphasizing communication and progress updates through Discord. We also focused on additional testing and visual polish, using feedback from earlier stages to improve level presentation, lighting, and environmental details before the final build was released.
+
+_What would you do differently to improve the collaboration or development process?_
+
+We would likely schedule more group playtesting and review sessions. Having more opportunities to evaluate the game together would help identify visual and performance issues earlier and reduce the amount of rework needed later in development.
+
+_Were there any tools or techniques that you did not find helpful in the success of your project development? Why?_
+
+We primarily relied on tools we were already familiar with, such as Unreal Engine Blueprints, Blender, GitHub, and Discord. While this limited experimentation with new tools, it allowed us to focus on completing the project efficiently. No particular tool proved unhelpful, but achieving the desired lighting and visual quality required a great deal of adjustment and testing throughout development.
