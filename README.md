@@ -387,3 +387,11 @@ We would likely schedule more group playtesting and review sessions. Having more
 _Were there any tools or techniques that you did not find helpful in the success of your project development? Why?_
 
 We primarily relied on tools we were already familiar with, such as Unreal Engine Blueprints, Blender, GitHub, and Discord. While this limited experimentation with new tools, it allowed us to focus on completing the project efficiently. No particular tool proved unhelpful, but achieving the desired lighting and atmosphere for our dungeon environment required a great deal of adjustment and testing throughout development.
+
+### Comment - Jose Lucca
+
+From my perspective, one of the biggest improvements during this stage was the overall visual quality of the game. Compared to earlier versions, the environment feels much more complete and immersive. The additional environmental details, lighting adjustments, and UI improvements helped create a stronger medieval dungeon atmosphere that matched our original vision.
+
+As someone supporting UI/UX and project coordination, I believe communication continued to be one of the team's biggest strengths. Discord made it easy to share screenshots, gameplay clips, and progress updates. This helped us quickly discuss changes and make improvements throughout development.
+
+The final version of the project reflects many of the goals we established at the start of development, and the collaboration between team members helped us successfully reach our final release milestone.
